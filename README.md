@@ -2,7 +2,7 @@
 
 Simple app to add tasks and measure completion time. It uses external API to get, create and manage tasks from external server. It is my first attempt to handling API.
 
-![My image](/Main view.png)
+![image alt](Main view.png)
 
 # Install
 
