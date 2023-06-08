@@ -2,7 +2,7 @@
 
 Simple app to add tasks and measure completion time
 
-![](/Main view.png)
+![My image](/Main view.png)
 
 # Install
 
